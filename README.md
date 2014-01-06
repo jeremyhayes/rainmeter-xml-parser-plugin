@@ -1,0 +1,2 @@
+rainmeter-xml-parser-plugin
+===========================
